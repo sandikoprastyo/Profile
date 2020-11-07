@@ -10,10 +10,6 @@
 - 🥅 I would love to contribute to the Open Source project
 - ⚡ I love spotify music, coffee and javascript
 
-### Favorite Spotify music Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="sandiko Spotify Playing" width="350" />](https://open.spotify.com/collection/tracks)
-
 ### Connect with me:
 
 [<img align="left" alt="sandikoprastyo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
