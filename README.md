@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fyjrmona0ys2j0g6y8ou7b4bm&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fyjrmona0ys2j0g6y8ou7b4bm&cover_image=true&theme=default)
 
 
 ### Connect with me:
