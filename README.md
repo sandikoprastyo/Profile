@@ -1,14 +1,13 @@
-### Hi there, I'm Diko
+### Hi there, I'm Sandiko aka Diko
 
 [![Website](https://img.shields.io/website?label=sandikoprastyo&style=for-the-badge&url=http://sandikoprastyo.netlify.app/)](http://sandikoprastyo.netlify.app)
 
 ## I'm a Software Developer
 
 - 🚒 i like technology
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 I would love to contribute to the Open Source project
-- ⚡ I love spotify music, coffee and javascript
+- :heart: I like Linux
+- :fire: I'm learning everything
+- ⚡ I love spotify music, tea or coffee and javascript
 
 ### Connect with me:
 
