@@ -52,6 +52,6 @@
   <img align="left" alt="sandikoprastyo GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sandikoprastyo&show_icons=true&hide_border=true" />
 
 [website]: http://sandikoprastyo.netlify.app/
-[instagram]: https://www.instagram.com/sandicodee/?hl=id
+[instagram]: https://www.instagram.com/sandikoprastyo/?hl=id
 [linkedin]: https://www.linkedin.com/in/sandiko-prastyo-b62115119/
 [facebook]: https://www.facebook.com/Sandikoprastyo
