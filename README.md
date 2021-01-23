@@ -1,13 +1,13 @@
-### Hi there, I'm Sandiko aka Diko
+### Hi there, I'm Diko
 
 [![Website](https://img.shields.io/website?label=sandikoprastyo&style=for-the-badge&url=http://sandikoprastyo.netlify.app/)](http://sandikoprastyo.netlify.app)
 
 ## I'm a Software Developer
 
-- 🚒 i like technology
-- :heart: I like Linux
+- 🚒 I like technology
+- :heart: I like Linux and Javascript
 - :fire: I'm learning everything
-- ⚡ I love spotify music, tea or coffee and javascript
+- ⚡ I like EDM music in spotify
 
 ### Spotify Playing 🎧
 
@@ -34,7 +34,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
