@@ -7,7 +7,7 @@
 - 🚒 I like technology
 - :heart: I like Linux and Javascript
 - :fire: I'm learning everything
-- ⚡ I like EDM music in spotify
+- ⚡ I like listen music in spotify
 
 ### Spotify Playing 🎧
 
