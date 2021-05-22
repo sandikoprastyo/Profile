@@ -48,7 +48,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="sandikoprastyo GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sandikoprastyo&show_icons=true&hide_border=true" />
+  <img align="left" alt="sandikoprastyo GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sandikoprastyo&show_icons=true&theme=dracula" />
 
 [website]: http://sandikoprastyo.netlify.app/
 [instagram]: https://www.instagram.com/sandikoprastyo/?hl=id
