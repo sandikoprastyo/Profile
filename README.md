@@ -1,17 +1,21 @@
-### Hi there, I'm Diko
+### Hi there!👋
+### I'm Diko Software Developer
+<!-- [![Website](https://img.shields.io/website?label=sandikoprastyo&style=for-the-badge&url=http://sandikoprastyo.netlify.app/)](http://sandikoprastyo.netlify.app) 
+ -->
 
-[![Website](https://img.shields.io/website?label=sandikoprastyo&style=for-the-badge&url=http://sandikoprastyo.netlify.app/)](http://sandikoprastyo.netlify.app)
+- 🚀  I like technology
+- ❤️ I like Linux and Javascript, TypeScript, Python
+- 🔥 I'm learning everything
+- 🎧 I like listen music in spotify
 
-## I'm a Software Developer
-
-- 🚒 I like technology
-- :heart: I like Linux and Javascript
-- :fire: I'm learning everything
-- ⚡ I like listen music in spotify
-
-### Spotify Playing 🎧
+### Spotify Playing 🎧 
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fyjrmona0ys2j0g6y8ou7b4bm&cover_image=true&theme=default)
+
+
+
+### Articles that I often read 📚 📖
+<a href="https://app.daily.dev/Sandikoprastyo"><img src="https://api.daily.dev/devcards/79f8787485954ee1862cb220b6441f75.png?r=twb" width="300" alt="sandiko prastyo's Dev Card"/></a>
 
 
 ### Connect with me:
@@ -25,7 +29,7 @@
 <br />
 
 
-### Languages and Tools:
+### Languages and Tools: ⚙️ 🛠
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -50,8 +54,8 @@
 <br />
 
 
-  <summary>:zap: GitHub Stats</summary>
-
+### GitHub Stats: 
+  
   <img align="left" alt="sandikoprastyo GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sandikoprastyo&show_icons=true&theme=dracula" />
 
 [website]: http://sandikoprastyo.netlify.app/
