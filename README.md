@@ -3,9 +3,10 @@
 <!-- [![Website](https://img.shields.io/website?label=sandikoprastyo&style=for-the-badge&url=http://sandikoprastyo.netlify.app/)](http://sandikoprastyo.netlify.app) 
  -->
 
-- 🚀  I like technology
-- ❤️ I like Linux and Javascript, TypeScript, Python
-- 🔥 I'm learning everything
+- 🚀 tech enthusiast
+- ❤️ like terminal Linux 
+- ❤️ Javascript, TypeScript, Python, PHP, Java
+- 🔥 I never stop learning
 - 🎧 I like listen music in spotify
 
 ### Spotify Playing 🎧 
@@ -39,7 +40,7 @@
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<!-- <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /> -->
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -58,7 +59,7 @@
   
   <img align="left" alt="sandikoprastyo GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sandikoprastyo&show_icons=true&theme=dracula" />
 
-[website]: http://sandikoprastyo.netlify.app/
+[website]: http://sandikoprastyo.dev/
 [instagram]: https://www.instagram.com/sandikoprastyo/?hl=id
 [linkedin]: https://www.linkedin.com/in/sandiko-prastyo-b62115119/
 [facebook]: https://www.facebook.com/Sandikoprastyo
