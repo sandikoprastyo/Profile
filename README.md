@@ -19,6 +19,9 @@
 [<img align="left" alt="sandikoprastyo | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="sandikoprastyo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sandikoprastyo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="sandikoprastyo | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="sandikoprastyo | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+
 
 <br/>
 <br/>
@@ -60,4 +63,5 @@
 [linkedin]: https://www.linkedin.com/in/sandiko-prastyo-b62115119/
 [facebook]: https://www.facebook.com/Sandikoprastyo
 [kaggle]: https://www.kaggle.com/sandikoprastyo
+[stackoverflow]: https://stackoverflow.com/users/12489986/dicko
 
