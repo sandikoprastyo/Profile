@@ -59,3 +59,5 @@
 [instagram]: https://www.instagram.com/sandikoprastyo/?hl=id
 [linkedin]: https://www.linkedin.com/in/sandiko-prastyo-b62115119/
 [facebook]: https://www.facebook.com/Sandikoprastyo
+[kaggle]: https://www.kaggle.com/sandikoprastyo
+
