@@ -2,7 +2,7 @@
 
 ### I'm Diko Software Developer
 
-#### Frontend || Backend || Data scientist
+#### Frontend engineer || Backend engineer || Machine Learning engineer
 
 <!-- [![Website](https://img.shields.io/website?label=sandikoprastyo&style=for-the-badge&url=http://sandikoprastyo.netlify.app/)](http://sandikoprastyo.netlify.app)
  -->
