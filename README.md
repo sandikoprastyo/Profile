@@ -1,7 +1,6 @@
 ### Hi there!👋
 
-### I'm Diko Software Developer
-
+### I'm Diko Software Engineer
 #### Frontend engineer || Backend engineer || Machine Learning engineer
 
 <!-- [![Website](https://img.shields.io/website?label=sandikoprastyo&style=for-the-badge&url=http://sandikoprastyo.netlify.app/)](http://sandikoprastyo.netlify.app)
@@ -11,7 +10,7 @@
 - 📚 Data enthusiast
 - 🔥 I never stop learning
 - 🎧 I like listen music on spotify
-- ⚙️ Javascript, TypeScript, Python, PHP, Java, Linux
+- ⚙️ Javascript, TypeScript, Python, PHP, Java, Golang, Linux
 
 ###### Connect with me:
 
