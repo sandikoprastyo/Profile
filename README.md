@@ -10,7 +10,7 @@
 - 📚 Data enthusiast
 - 🔥 I never stop learning
 - 🎧 I like listen music on spotify
-- ⚙️ Javascript, TypeScript, Python, PHP, Java, Golang, Linux
+- ⚙️ Javascript, TypeScript, Python, C#, Java, Golang, Linux
 
 ###### Connect with me:
 
